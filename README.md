@@ -10,9 +10,9 @@ The project will involve several key steps:
 
 3. Feature Selection: Identifying the most relevant features that contribute to stroke risk prediction through techniques such as statistical analysis, feature importance ranking, and domain expertise.
 
-4. Model Development: Implementing machine learning algorithms, such as logistic regression, random forests, or neural networks, to build a predictive model. Ensemble methods or deep learning architectures may be explored for improved performance.
+4. Model Development: Implementing machine learning algorithms, such as logistic regression, random forests, or neural networks, to build a predictive model.
 
-5. Model Evaluation: Assessing the performance of the developed model using appropriate evaluation metrics, such as accuracy, precision, recall, and area under the receiver operating characteristic curve (AUC-ROC), through cross-validation and validation on unseen data.
+5. Model Evaluation: Assessing the performance of the developed model using appropriate evaluation metrics, such as accuracy, precision, recall through cross-validation and validation on unseen data.
 
 6. Deployment: Integrating the trained model into a user-friendly interface accessible to healthcare providers or individuals, allowing for real-time risk assessment and decision support.
 
